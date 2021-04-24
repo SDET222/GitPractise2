@@ -3,6 +3,7 @@ public class HelloAmerica {
 
         System.out.println("Hello America");
         System.out.println("Freedom and wellness");
+        System.out.println("commit and push");
 
 
     }
